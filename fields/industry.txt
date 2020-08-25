@@ -1,0 +1,26 @@
+2.1	Automobiles
+2.2	Automobile components
+2.3	Aviation
+2.4	Biotechnology
+2.5	Chemicals
+2.6	Construction
+2.7	Defence manufacturing
+2.8	Defence exports
+2.9	Electronic systems
+2.10	Electrical machinery
+2.11	Food processing
+2.12	Information technology and business process management
+2.13	Leather
+2.14	Media and entertainment
+2.15	Mining
+2.16	Oil and gas
+2.17	Pharmaceuticals
+2.18	Ports & shipping
+2.19	Railways
+2.20	Renewable energy
+2.21	Roads and highways
+2.22	Space and astronomy
+2.23	Thermal power
+2.24	Textiles and garments
+2.25	Tourism
+2.26	Wellness and Healthcare
